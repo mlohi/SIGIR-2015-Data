@@ -18,27 +18,50 @@ Files
 -----
 * The data is formatted one paper per file in the corresponding directory categorized by the publication year.
 
+
 -----------
 Data format
 -----------
-file name: #indexID+#venue+#publication_date
+
+
+file name: #indexID#venue#date
+
+
 
 e.g., #index96644#cCIKM#t2008
 
+
+
 content:
-\#* title  
-\#@ author 
-\#t publication date
-\#c venue
-\# reference indexID
+
+#* title  
+
+#@ author 
+
+#t publication date
+
+#c venue
+
+# reference indexID
+
 ...
-\# reference indexID
-\#! abstract
+
+# reference indexID
+
+#! abstract
+
+
 
 e.g.,
-\#*Data winnowing.
-\#@Yoav Freund
-\#t2010
-\#cKDD
-\#index1540897
-\#!Massive quantities of ...
+
+#*Data winnowing.
+
+#@Yoav Freund
+
+#t2010
+
+#cKDD
+
+#index1540897
+
+#!Massive quantities of ...
