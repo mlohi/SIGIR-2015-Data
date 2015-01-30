@@ -22,4 +22,4 @@ Data statistics
 -----
 Files
 -----
-* The data is formatted one paper per file in the corresponding directory categorized by the publication year.
+* The data is formatted one paper per file in the corresponding directory categorized by the publication year. 
