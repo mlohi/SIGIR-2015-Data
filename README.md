@@ -4,7 +4,7 @@ Mining Article Background in Scientific Literature: HMM-like Structured Modeling
 -----------
 Description
 -----------
-This dataset contains papers that come from 4 related conferences, i.e., KDD, WWW, SIGIR, CIKM, from 2001 to 2010. The related reference is also included.
+This dataset contains papers that come from 4 related conferences, i.e., KDD, WWW, SIGIR, CIKM, from 2001 to 2010. The related references are also included.
 
 *We built it from the large scale DBLP data collected by Arnetminer. http://arnetminer.org/
 
