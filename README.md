@@ -26,9 +26,9 @@ file name: #indexID+#venue+#publication_date
 e.g., #index96644#cCIKM#t2008
 
 content:
-#* title  
-#@ author 
-#t publication date
+\#* title  
+\#@ author 
+\#t publication date
 #c venue
 # reference indexID
 ...
