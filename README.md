@@ -1,5 +1,4 @@
 # SIGIR-2015-Data
-Mining Article Background in Scientific Literature: HMM-like Structured Modeling
 
 -----------
 Description
@@ -17,6 +16,11 @@ Data statistics
 Files
 -----
 * The data is formatted one paper per file in the corresponding directory categorized by the publication year.
+
+----------
+References
+----------
+Mining Article Background in Scientific Literature: HMM-like Structured Modeling
 
 ----------------
 Acknowledgements
