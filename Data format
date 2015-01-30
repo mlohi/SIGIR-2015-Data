@@ -17,9 +17,20 @@ content:
 #! abstract
 
 e.g.,
-#*Data winnowing.
-#@Yoav Freund
-#t2010
+#*Locality sensitive hash functions based on concomitant rank order statistics.
+#@Kave Eshghi,Shyamsundar Rajaram
+#t2008
 #cKDD
-#index1540897
-#!Massive quantities of ...
+#index473715
+#%621658
+#%98613
+#%110902
+#%622328
+#%502458
+#%472993
+#%907727
+#%611149
+#%21117
+#%775649
+#%212106
+#!Locality Sensi...
