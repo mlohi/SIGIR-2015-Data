@@ -3,14 +3,14 @@
 Data format
 -----------
 
-file name: #indexID#venue#date
+*file name: #indexID#venue#date
 e.g., #index96644#cCIKM#t2008
 
-content:
+*content:
 #* title  
 #@ author 
 #t publication date
-#c venue
+# publication venue
 # reference indexID
 ...
 # reference indexID
