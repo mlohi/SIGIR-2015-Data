@@ -17,7 +17,7 @@ Data statistics
 
 66632 valid citation relations
 
-*For more details, please refer to our paper.
+*For more details, the user could refer to our paper.
 
 -----
 Files
