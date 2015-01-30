@@ -29,16 +29,16 @@ content:
 \#* title  
 \#@ author 
 \#t publication date
-#c venue
-# reference indexID
+\#c venue
+\# reference indexID
 ...
-# reference indexID
-#! abstract
+\# reference indexID
+\#! abstract
 
 e.g.,
-#*Data winnowing.
-#@Yoav Freund
-#t2010
-#cKDD
-#index1540897
-#!Massive quantities of ...
+\#*Data winnowing.
+\#@Yoav Freund
+\#t2010
+\#cKDD
+\#index1540897
+\#!Massive quantities of ...
